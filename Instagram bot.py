@@ -163,7 +163,7 @@ class InstaBot:
 
 
 
-user=[ ["yash__joglekar","yashbrooninstagram"] , ["this.isourusername","matlabkuchbhi"] ]
+user=[]
 print("Choose user:")
 for i in range(len(user)):
     print("[ {} ]. {}".format((i+1),user[i][0]))
