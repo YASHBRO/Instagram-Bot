@@ -9,8 +9,10 @@
 For now, it performs only two actions:
 
 1. Give list of people :
-	- Who on't follow you back      _Optional-> Unfollow them all_
-	- Whom you don't follow back    _Optional-> Follow back them all_
+	- Who on't follow you back 
+		- _Optional-> Unfollow them all_
+	- Whom you don't follow back 
+		- _Optional-> Follow back them all_
 
 2. Spamming bot :
 	-It can spam multiple people with the custom message you provide
