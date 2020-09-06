@@ -1,3 +1,4 @@
+![alt instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vexels.com%2Fvectors%2Fpreview%2F146096%2Finstagram-post-template&psig=AOvVaw2ea2LvRAj1_-_LCRG1Ox1D&ust=1599495501252000&source=images&cd=vfe&ved=2ahUKEwjD1NKa99TrAhXO2zgGHaLCAScQjRx6BAgAEAc)
 # Instagram-Bot
 
 
@@ -6,8 +7,8 @@
 For now, it performs only two actions:
 
 1. Give list of people :
-	- Who on't follow you back      **Optional-> Unfollow them all**
-	- Whom you don't follow back    [Optional-> Follow back them all]
+	- Who on't follow you back      _Optional-> Unfollow them all_
+	- Whom you don't follow back    _Optional-> Follow back them all_
 
 2. Spamming bot :
 	-It can spam multiple people with the custom message you provide
