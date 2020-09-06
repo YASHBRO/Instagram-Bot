@@ -1,4 +1,4 @@
-# Instagram-Bot  ![alt Instagram](https://img.icons8.com/cute-clipart/2x/instagram-new.pngg)
+# Instagram-Bot  ![alt Instagram](https://img.icons8.com/cute-clipart/2x/instagram-new.png)
 
 
 
