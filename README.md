@@ -1,5 +1,5 @@
 # Instagram-Bot
-=================
+
 
 **Multi purpose Bot**
 	
@@ -16,8 +16,8 @@ For now, it performs only two actions:
 
 
 -------------
-## Contact:
-=====================
+### Contact:
+
 
 _For suggestions and bug/error report_
 	
@@ -28,7 +28,7 @@ Email :- yashjoglekar2012@gmail.com
 
 -----------------
 ## Requirements:
-==================
+
 
 1. Python 3
 	[Python3 download link](https://www.python.org/downloads)
@@ -51,7 +51,7 @@ Email :- yashjoglekar2012@gmail.com
 
 ---------------
 ## Instruction:
-======================
+
 
 Please read the comments at line 9,22,26,174,175,176
 	
@@ -69,7 +69,7 @@ _Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...
 	
 -------------
 ## Errors:
-===================
+
 
 If your IDE display the message " {Blah Blah} not found in the page " kind of message, it might be due to your connection speed.
 if you face the above mentioned error, please add few more seconds in the "Sleep()" function which you'll find after every few lines
