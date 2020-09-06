@@ -1,5 +1,5 @@
-![alt instagram](https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-instagram-icon-colorful.png)
-# Instagram-Bot
+# Instagram-Bot  ![alt Instagram](https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-instagram-icon-colorful.png)
+
 
 
 **Multi purpose Bot**
