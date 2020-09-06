@@ -1,4 +1,5 @@
 # Instagram-Bot
+================
 
 	Multi purpose Bot
 	
@@ -14,6 +15,7 @@
 
 
 ### Contact:
+-------------
 
 	For suggestions and bug/error report
 	
@@ -22,6 +24,7 @@
 
 
 ### Requirements:
+-----------------
 
 	1. Python 3
 		[Python3 download link](https://www.python.org/downloads/)
@@ -40,6 +43,7 @@
 
 
 ### Instruction:
+----------------
 
 	Please read the comments at line 9,22,26,174,175,176
 	
@@ -53,6 +57,7 @@
 	
 	
 ### Errors:
+------------
 
 	If your IDE display the message " {Blah Blah} not found in the page " kind of message, it might be due to your connection speed.
 	if you face the above mentioned error, please add few more seconds in the "Sleep()" function which you'll find after every few lines
