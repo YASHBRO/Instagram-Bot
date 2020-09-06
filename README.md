@@ -12,8 +12,13 @@
 			It can spam multiple people with the custom message you provide
 
 
+
 #Contact:
+
+	For suggestions and bug/error report
+	
 	Email :- yashjoglekar2012@gmail.com
+
 
 
 #Requirements:
@@ -33,6 +38,7 @@
 		General directory location :- C:\Program Files\Python38 {or which ever python version is installed, Python37 if python 3.7 is installed} 
 
 
+
 #Instruction:
 
 	Please read the comments at line 9,22,26,174,175,176
@@ -43,6 +49,7 @@
 		   Later steps will be clear on your terminal
 		
 		*Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option
+	
 	
 	
 #Errors:
