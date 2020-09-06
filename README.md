@@ -1,4 +1,4 @@
-# Instagram-Bot <img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" alt="Instagram_icon" width="45"  height="33">
+# Instagram-Bot <img src="https://i7.pngguru.com/preview/722/1011/694/logo-icon-instagram-png-logo.jpg" alt="Instagram_icon" width="45"  height="45">
 
 
 <img src="https://toppng.com/uploads/preview/instagram-logo-with-words-115496796129cstzzfbvb.png" alt="Instagram_icon" width="420"  height="429.5">
