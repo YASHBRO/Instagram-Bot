@@ -4,7 +4,10 @@ from time import sleep
 
 class InstaBot:
     def __init__(self, username, pw):
+        
         self.driver = webdriver.Chrome()
+        #Add your driver name in place of .Chrome()
+        
         self.username = username
         self.driver.get("https://instagram.com")
         sleep(3)
@@ -15,8 +18,12 @@ class InstaBot:
         self.driver.find_element_by_xpath('//button[@type="submit"]')\
             .click()
         sleep(3)
+        
+        #1st 'Not Now' click, comment this out of if it doesn't appear in your case
         self.driver.find_element_by_xpath("//button[contains(text(), 'Not Now')]")\
             .click()
+        
+        #2nd 'Not Now' click, comment this out of if it doesn't appear in your case
         sleep(2)
         self.driver.find_element_by_xpath("//button[contains(text(), 'Not Now')]")\
             .click()
@@ -164,6 +171,10 @@ class InstaBot:
 
 
 user=[]
+#Add your username and password in this list in a list as to make 'user' a nested list
+#For eg: [username1,password1]...... and so on
+#So the resulting list looks like - user=[[username1,password1],[username2,password2],[username3,password3]]
+
 print("Choose user:")
 for i in range(len(user)):
     print("[ {} ]. {}".format((i+1),user[i][0]))
