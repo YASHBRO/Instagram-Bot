@@ -8,13 +8,13 @@
 	
 For now, it performs only two actions:
 
-- **Give list of people** :
+1. **Give list of people** :
 	- Who don't follow you back 
 		- _Optional-> Unfollow them all_
 	- Whom you don't follow back 
 		- _Optional-> Follow back them all_
 
-- **Spamming bot** :
+2. **Spamming bot** :
 	- It can spam multiple people with the custom message you provide
 
 
