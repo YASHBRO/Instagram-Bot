@@ -27,7 +27,7 @@
 -----------------
 
 	1. Python 3
-		*[Python3 download link](https://www.python.org/downloads/)**
+		Python3 download link: https://www.python.org/downloads/
 
 	2. Python IDE
 		( Any IDE will work. In my case, I used Pycharm Community version **[Pycharm download link](https://www.jetbrains.com/pycharm/download/#section=windows)** )
