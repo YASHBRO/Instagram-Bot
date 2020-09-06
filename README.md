@@ -1,5 +1,5 @@
 # Instagram-Bot
-================
+------------------------
 
 	Multi purpose Bot
 	
