@@ -1,4 +1,4 @@
-# Instagram-Bot <img src="https://i7.pngguru.com/preview/722/1011/694/logo-icon-instagram-png-logo.jpg" alt="Instagram_icon" width="30"  height="30">
+# Instagram-Bot <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="Instagram_icon" width="30"  height="30">
 
 
 <img src="https://toppng.com/uploads/preview/instagram-logo-with-words-115496796129cstzzfbvb.png" alt="Instagram_icon" width="420"  height="429.5">
