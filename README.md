@@ -4,7 +4,7 @@
 
 -------------------------------------------------
 
-**Multi purpose Bot**
+#### Multi purpose Bot
 	
 For now, it performs only two actions:
 
