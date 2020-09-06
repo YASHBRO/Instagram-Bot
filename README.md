@@ -1,7 +1,7 @@
 # Instagram-Bot <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram_icon" width="30"  height="30">
 
 
-<img src="https://w7.pngwing.com/pngs/797/333/png-transparent-instagram-internet-bot-robot-brand-instagram-text-payment-logo.png" alt="Instagram_icon" width="920"  height="215">
+<img src="https://text2image.com/user_images/202009/text2image_W6543597_20200906_175237.png" alt="Instagram_icon" width="250"  height="50">
 
 
 #### Multi purpose Bot
