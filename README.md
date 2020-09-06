@@ -1,13 +1,13 @@
 # Instagram-Bot
 ------------------------
 
-	Multi purpose Bot
+	**Multi purpose Bot**
 	
 	For now, it performs only two actions:
 	
 		1. Give list of people :
- 			1. Who on't follow you back      *[Optional-> Unfollow them all]*
-			2. Whom you don't follow back    _[Optional-> Follow back them all]_
+ 			1. Who on't follow you back      **Optional-> Unfollow them all**
+			2. Whom you don't follow back    [Optional-> Follow back them all]
 
 		2. Spamming bot :
 			It can spam multiple people with the custom message you provide
