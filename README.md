@@ -1,7 +1,6 @@
-# Instagram-Bot <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="Instagram_icon" height="50" width="50" >
+# Instagram-Bot <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="Instagram_icon" height="25" width="25" >
 
 
--------------------------------------------------
 
 #### Multi purpose Bot
 	
