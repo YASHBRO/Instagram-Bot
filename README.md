@@ -5,8 +5,8 @@
 	For now, it performs only two actions:
 	
 		1. Give list of people :
- 			1. Who on't follow you back      [Optional-> Unfollow them all]
-			2. Whom you don't follow back    [Optional-> Follow back them all]
+ 			1. Who on't follow you back      *[Optional-> Unfollow them all]*
+			2. Whom you don't follow back    _[Optional-> Follow back them all]_
 
 		2. Spamming bot :
 			It can spam multiple people with the custom message you provide
@@ -48,7 +48,7 @@
 		2. It'll ask for the action you want to perform
 		   Later steps will be clear on your terminal
 		
-		*Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option
+		*Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option*
 	
 	
 	
