@@ -1,5 +1,4 @@
-# Instagram-Bot  
-<img src="https://image.flaticon.com/icons/png/128/174/174855.png" align="centre" alt="Instagram_icon" height="80" width="80" >
+# Instagram-Bot <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="Instagram_icon" height="50" width="50" >
 
 
 -------------------------------------------------
