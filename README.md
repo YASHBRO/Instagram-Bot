@@ -1,4 +1,4 @@
-# <img src="https://text2image.com/user_images/202009/text2image_L5534352_20200906_180953.png" alt="Instagram_icon" width="400"  height="38"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram_icon" width="40"  height="40">
+# <img src="https://text2image.com/user_images/202009/text2image_L5534352_20200906_180953.png" alt="Instagram_icon" width="400"  height="38"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram_icon" width="45"  height="45">
 
 
 
