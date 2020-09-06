@@ -1,6 +1,8 @@
-# Instagram-Bot  ![alt Instagram](https://img.icons8.com/cute-clipart/2x/instagram-new.png)
+# Instagram-Bot  
 
+![alt Instagram](https://img.icons8.com/cute-clipart/2x/instagram-new.png)
 
+-------------------------------------------------
 
 **Multi purpose Bot**
 	
