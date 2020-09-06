@@ -14,12 +14,16 @@
 
 
 
+
+
 ### Contact:
 -------------
 
 	For suggestions and bug/error report
 	
 	Email :- yashjoglekar2012@gmail.com
+
+
 
 
 
@@ -37,11 +41,11 @@
 		- Run " pip install selenium " in your terminal to install selenium.
 
 	4. Web driver of your respective browser
-		- In my case its Chrome :- 
+		- In my case its Chrome.
+		- Place the .exe file of your webdriver in the directory where the python.exe exist.
+		- General directory location :- C:\Program Files\Python38 {or which ever python version is installed, Python37 if python 3.7 is installed}.
 [Chrome driver download link](https://chromedriver.chromium.org/downloads)
 
-		- Place the .exe file of your webdriver in the directory where the python.exe exist
-		- General directory location :- C:\Program Files\Python38 {or which ever python version is installed, Python37 if python 3.7 is installed} 
 
 
 
@@ -56,6 +60,8 @@
 		   Later steps will be clear on your terminal
 		
 		*Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option*
+	
+	
 	
 	
 	
