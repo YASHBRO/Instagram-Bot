@@ -171,13 +171,18 @@ ans=int(input(":- "))
 my_bot = InstaBot(user[ans-1][0], user[ans-1][1])
 z=1
 while z!=0:
-    print("Choose an actoin \n( 1 ) Follow Back stats -{OPTIONAL-->Unfollow/Follow back}\n( 2 ) Spam Bot")
+    print("Choose an actoin \n(1) Follow Back stats [optional-->Unfollow/Follow back]\n(2) Spam Bot\n(3) Quit menu")
     act=int(input(":- "))
-
-    if act==1:
-        my_bot.get_unfollowers()
-    elif act==2:
-        my_bot.spammig()
+    
+    try:
+        if act==1:
+            my_bot.get_unfollowers()
+        elif act==2:
+            my_bot.spammig()
+        elif act==3:
+            my_bot.quit()
+    except:
+        print("Some error occured plz try again.")
     
     z=int(input("\n\nIf you want to go back to menu, enter '1'\nTo exit, enter '0' :\n"))
     if z==0:
