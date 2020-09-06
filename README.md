@@ -1,6 +1,6 @@
 # Instagram-Bot  
 
-![alt Instagram](https://image.flaticon.com/icons/png/128/174/174855.png = 50*50)
+![alt Instagram](https://image.flaticon.com/icons/png/128/174/174855.png = 50x50)
 
 -------------------------------------------------
 
