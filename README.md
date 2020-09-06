@@ -1,6 +1,6 @@
 # Instagram-Bot  
 
-![alt Instagram](https://img.icons8.com/cute-clipart/2x/instagram-new.png)
+![alt Instagram](https://picsum.photos/id/1025/100)
 
 -------------------------------------------------
 
