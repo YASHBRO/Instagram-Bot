@@ -13,7 +13,7 @@
 
 
 
-##Contact:
+### Contact:
 
 	For suggestions and bug/error report
 	
@@ -21,10 +21,10 @@
 
 
 
-##Requirements:
+### Requirements:
 
 	1. Python 3
-		( https://www.python.org/downloads/ )
+		(https://www.python.org/downloads/)
 
 	2. Python IDE
 		( Any IDE will work. In my case, I used Pycharm Community version (https://www.jetbrains.com/pycharm/download/#section=windows) )
@@ -33,13 +33,13 @@
 		(Run " pip install selenium " in your terminal to install selenium)
 
 	4. Web driver of your respective browser
-		(In my case its Chrome :- https://chromedriver.chromium.org/downloads )
+		(In my case its Chrome :- (https://chromedriver.chromium.org/downloads) )
 		Place the .exe file of your webdriver in the directory where the python.exe exist
 		General directory location :- C:\Program Files\Python38 {or which ever python version is installed, Python37 if python 3.7 is installed} 
 
 
 
-##Instruction:
+### Instruction:
 
 	Please read the comments at line 9,22,26,174,175,176
 	
@@ -52,7 +52,7 @@
 	
 	
 	
-##Errors:
+### Errors:
 
 	If your IDE display the message " {Blah Blah} not found in the page " kind of message, it might be due to your connection speed.
 	if you face the above mentioned error, please add few more seconds in the "Sleep()" function which you'll find after every few lines
