@@ -1,4 +1,4 @@
-# <img src="https://text2image.com/user_images/202009/text2image_F9254467_20200906_175549.png" alt="Instagram_icon" width="500"  height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram_icon" width="50"  height="50">
+# <img src="https://text2image.com/user_images/202009/text2image_L6783332_20200906_175726.png" alt="Instagram_icon" width="250"  height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram_icon" width="40"  height="40">
 
 
 #### Multi purpose Bot
