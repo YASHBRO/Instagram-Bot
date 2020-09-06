@@ -1,6 +1,6 @@
 # Instagram-Bot  
 
-![alt Instagram](https://picsum.photos/id/1025/100)
+![alt Instagram](https://image.flaticon.com/icons/png/128/174/174855.png)
 
 -------------------------------------------------
 
