@@ -39,6 +39,7 @@
 	4. Web driver of your respective browser
 		- In my case its Chrome :- 
 [Chrome driver download link](https://chromedriver.chromium.org/downloads)
+
 		- Place the .exe file of your webdriver in the directory where the python.exe exist
 		- General directory location :- C:\Program Files\Python38 {or which ever python version is installed, Python37 if python 3.7 is installed} 
 
