@@ -1,4 +1,4 @@
-# Instagram-Bot <img src="https://image.similarpng.com/very-thumbnail/2020/05/3D-Instagram-logo-PNG.png" alt="Instagram_icon" width="30"  height="30">
+# Instagram-Bot <img src="https://image.similarpng.com/very-thumbnail/2020/05/3D-Instagram-logo-PNG.png" alt="Instagram_icon" width="60"  height="60">
 
 
 
