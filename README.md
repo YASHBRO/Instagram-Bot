@@ -35,18 +35,18 @@ Email :- yashjoglekar2012@gmail.com
 
 1. Python 3
 
-> [Download Python3](https://www.python.org/downloads)
+	> [Download Python3](https://www.python.org/downloads)
 
 2. Python IDE
 	- Any IDE will work. In my case, I used Pycharm Community version. 
-	>[Download Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+		>[Download Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 3. Selenium module
 	- Run " pip install selenium " in your terminal to install selenium.
 
 4. Web driver of your respective browser
 	- In my case its Chrome.
-	> [Download Chrome webdriver](https://chromedriver.chromium.org/downloads)
+		> [Download Chrome webdriver](https://chromedriver.chromium.org/downloads)
 	- Place the .exe file of your webdriver in the directory where the python.exe exist.
 		- _General directory location :- C:\Program Files\Python38 {or which ever python version is installed, Python37 if python 3.7 is installed}._
 
