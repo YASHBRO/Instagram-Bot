@@ -33,18 +33,18 @@ Email :- yashjoglekar2012@gmail.com
 ## Requirements:
 
 
-1. Python 3
+1. **Python 3**
 
 	> [Download Python3](https://www.python.org/downloads)
 
-2. Python IDE
+2. **Python IDE**
 	- Any IDE will work. In my case, I used Pycharm Community version. 
 		>[Download Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-3. Selenium module
+3. **Selenium module**
 	- Run " pip install selenium " in your terminal to install selenium.
 
-4. Web driver of your respective browser
+4. **Web driver of your respective browser**
 	- In my case its Chrome.
 		> [Download Chrome webdriver](https://chromedriver.chromium.org/downloads)
 	- Place the .exe file of your webdriver in the directory where the python.exe exist.
