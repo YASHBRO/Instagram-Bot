@@ -57,14 +57,15 @@ Email :- yashjoglekar2012@gmail.com
 ## Instruction:
 
 
-Please read the comments at line 9,22,26,174,175,176
+Please read the comments at line 11, 12, 13
 	
 Once you are done with the code, run it:
 
-1. It'll ask you for the username through which you want to login
-2. It'll ask for the action you want to perform
+1. It'll ask you to select/add/remove instagram user id.
+2. With your chosen id, now you can 
+	- Keep a track on your followers/following
+	- Spam multiple person with only 3 commands
 
-Later steps will be clear on your terminal
 		
 _Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option_
 	
@@ -74,6 +75,8 @@ _Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...
 -------------
 ## Errors:
 
+In case you face any error, most probably it might be due to lack of minimum [requirements](https://github.com/YASHBRO/Instagram-Bot#requirements).
 
-If your IDE display the message " {Blah Blah} not found in the page " kind of message, it might be due to your connection speed.
-if you face the above mentioned error, please add few more seconds in the "Sleep()" function which you'll find after every few lines
+Please double check wether you meet the [requirements](https://github.com/YASHBRO/Instagram-Bot#requirements) or not
+
+And if the error the error still persist, please report to the given [contact details](https://github.com/YASHBRO/Instagram-Bot#contact)
