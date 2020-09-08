@@ -31,8 +31,8 @@ class InstaBot:
     def get_unfollowers(self):
         self.driver.find_element_by_xpath("//img[@alt='Instagram']")\
             .click()
-        self.wait(EC.element_to_be_clickable((By.XPATH, "//a[contains(@href,'/{}')]".format(self.username)
-                                              .click())))
+        self.wait(EC.element_to_be_clickable((By.XPATH, "//a[contains(@href,'/{}')]".format(self.username))))\
+            .click()
         self.wait(EC.element_to_be_clickable((By.XPATH, "//a[contains(@href,'/following')]")))\
             .click()
         following = self._get_names()
