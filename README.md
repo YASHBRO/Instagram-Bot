@@ -45,7 +45,7 @@ Email :- yashjoglekar2012@gmail.com
 
 If you don't have the Chrome browser installed, then:
 
-Please read the comments at line 11, 12, 13 of the source code
+Please read the comments at line 11, 12, 13 of the file "Instagram_bot.py" in "source code" branch
 	
 Once you are done with the code, run it:
 
