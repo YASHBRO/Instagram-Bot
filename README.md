@@ -34,28 +34,14 @@ Email :- yashjoglekar2012@gmail.com
 
 
 - **Add a web driver of your respective browser.**
-	- In my case its Chrome.
-		> [Download Chrome webdriver](https://chromedriver.chromium.org/downloads)
-	- Place the .exe file of your webdriver in the directory where the python.exe exist.
-		- _General directory location :- C:\Program Files\Python38 {or which ever python version is installed, Python37 if python 3.7 is installed}._
+	- Download your browser's webdriver [here](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/#quick-reference)
 
 
 ---------------
 ## Instruction:
 
-If you don't have the Chrome browser installed, then:
+Download your browser's webdriver then place it it the same folder as the Instagram_bot.exe
 
-Please read the comments at line 11, 12, 13 of the file "Instagram_bot.py" in "source code" branch
-	
-Once you are done with the code, run it:
-
-1. It'll ask you to select/add/remove instagram user id.
-2. With your chosen id, now you can 
-	- Keep a track on your followers/following
-		- _It also saves the list in form of .txt file_
-	- Spam multiple person with only 3 commands
-
-		
 _Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option_
 	
 	
