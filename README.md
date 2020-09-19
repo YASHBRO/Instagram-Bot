@@ -44,9 +44,9 @@ Email :- yashjoglekar2012@gmail.com
 ## Instruction:
 
 
-1. Download the Instagram bot.exe file by clicking on the file provide in the master folder or by clicking [**here**](https://github.com/YASHBRO/Instagram-Bot/raw/master/Instagram%20Bot.exe)
+1. Download the ```Instagram bot.exe``` file by clicking on the file provide in the master folder or by clicking [**here**](https://github.com/YASHBRO/Instagram-Bot/raw/master/Instagram%20Bot.exe)
 
-2. Download your browser's webdriver then place it it the same folder as the Instagram_bot.exe
+2. Download your browser's webdriver then place it in the same folder as the ```Instagram_bot.exe```
 
 _Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option_
 	
