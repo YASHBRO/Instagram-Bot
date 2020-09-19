@@ -35,6 +35,7 @@ Email :- yashjoglekar2012@gmail.com
 
 - **Add a web driver of your respective browser.**
 	- Download your browser's webdriver [here](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/#quick-reference)
+- **You must have 64 bit processor**
 
 
 ---------------
