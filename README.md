@@ -34,7 +34,7 @@ It waits for 50 seconds if you have second authorization enabled
 
 **To run the `Instagram_bot.py` file you need following stuff in your system:**
 
-1. **[Python 3]**(https://www.python.org/downloads)
+1. **[Python 3](https://www.python.org/downloads)**
 
 2. **Following python pakages**
     1. Selenium *{$ pip install selenium}*
