@@ -13,6 +13,8 @@
 2. **Spamming bot** :
 	- It can spam multiple people in a single input with the custom message you provide
 
+<br/>
+
 It saves your user id and password in the same location as your `.py`/`.exe` as `Users.txt`, and don't worry, your user id might be readable to you but password is in the encrypted form
 
 It also saves both of the list of above mentioned people in the form of simple text file.
