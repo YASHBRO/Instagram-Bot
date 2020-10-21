@@ -2,9 +2,7 @@
 
 
 
-### Multi purpose Bot
-	
-For now, it performs only two actions:
+#### It can perform the followng task:
 
 1. **Give list of people** :
 	- Who don't follow you back 
@@ -13,18 +11,19 @@ For now, it performs only two actions:
 		- _Optional-> Follow back them all_
 
 2. **Spamming bot** :
-	- It can spam multiple people with the custom message you provide
+	- It can spam multiple people in a single input with the custom message you provide
 
+<br/>
 
+It saves your user id and password in the same location as your `.py`/`.exe` as `Users.txt`, and don't worry, your user id might be readable to you but password is in the encrypted form
 
+It also saves both of the list of above mentioned people in the form of simple text file.
 
--------------
-### Contact:
+For your convinience I added another file named `Pyinstaller_python.py` which on running converts the app into an `.exe` file which functions the same and it doesn't even have any prerequisites except for the web driver
 
+It waits for 50 seconds if you have second authorization enabled
 
-_For suggestions and bug/error report_
-	
-Email :- yashjoglekar2012@gmail.com
+*Note: But I suggest you to turn off your double verification if enabled*
 
 
 
@@ -33,31 +32,95 @@ Email :- yashjoglekar2012@gmail.com
 ## Requirements:
 
 
-- **Add a web driver of your respective browser.**
-	- Download your browser's webdriver [**here**](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/#quick-reference)
-	
-	
-- **You must have 64 bit processor**
+**To run the `Instagram_bot.py` file you need following stuff in your system:**
+
+1. **[Python 3](https://www.python.org/downloads)**
+
+2. **Following python pakages**
+    1. Selenium *{$ pip install selenium}*
+    2. Cryptography *{$ pip install cryptography}*
+    3. Pyinstaller (To convert it into `.exe` file) *{$ pip install pyinstaller}*
+    
+    Or, simply run `pip install -r requirements.txt` in your command prompt in the same directory as your `Instagram_bot.py` file
+
+3. **Web driver of your respective browser**
+    - If you have Chrome installed in your system then download the [Chrome webdriver](https://chromedriver.chromium.org/downloads).
+	- Place web driver and the bot in the same directory or else bot will fail.
+
+**After conversion by running `Pyinstaller_python.py`, yo run the `Instagram_bot.exe` file you need following stuff in your system:**
+
+1. **You should have the `x64` bit OS.**
+
+2. **Web driver of your respective browser**
+    - If you have Chrome installed in your system then download the [Chrome webdriver](https://chromedriver.chromium.org/downloads).
+	- Place web driver and the bot in the same directory or else bot will fail.
 
 
 ---------------
 ## Instruction:
 
 
-1. Download the ```Instagram bot.exe``` file by clicking on the file provide in the master folder or by clicking [**here**](https://github.com/YASHBRO/Instagram-Bot/raw/master/Instagram%20Bot.exe)
+1. It'll ask you to select/add/remove instagram user id.
+2. With your chosen id, now you can 
+	- Keep a track on your followers/following
+	- Spam multiple person
+- To create a `.exe` file, just run `Pyinstaller_python.py` file, but make sure you have all the pakages installed as mentioned above.
+		
+_Note:_
+- Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option_
+- It is possible that in the 1st time use, your user id isn't shown even after adding it. In that case, just go for the option "Refresh(re)" or close and re-run the code/file.
 
-2. Download your browser's webdriver then place it in the same folder as the ```Instagram_bot.exe```
 
-_Note: Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option_
+---------------
+
+
+
+### Screenshot/GIF showing the sample use of the script
+
+#### When you open the app 1st time
+
+<img src="/Screenshots/MainPage.PNG" alt="MainPage">
+
+#### After adding your username and password
+
+<img src="/Screenshots/LoginPage.png" alt="LoginPage">
+
+#### Bot Commands available
+
+<img src="/Screenshots/MenuPage.png" alt="MenuPage">
+
+#### Passwords stays safe(encrypted), even in your own computer
+
+<img src="/Screenshots/Users.png" alt="Users">
 	
-	
-	
-	
+
 -------------
 ## Errors:
 
-In case you face any error, most probably it might be due to lack of [requirements](https://github.com/YASHBRO/Instagram-Bot#requirements).
+In case you face any error, most probably it might be due to lack of minimum [requirements](https://github.com/YASHBRO/Instagram-Bot#requirements).
 
-Please double check wether you meet the [requirements](https://github.com/YASHBRO/Instagram-Bot#requirements) or not
+Please double check wether you meet the [requirements](https://github.com/YASHBRO/Instagram-Bot#requirements).
 
-And if the error the error still persist, please report to the given [contact details](https://github.com/YASHBRO/Instagram-Bot#contact)
+Sometimes restarting the file might be helpful.
+
+And if the error still persist, please report to the given [contact details](https://github.com/YASHBRO/Instagram-Bot#contact).
+
+
+
+-------------
+### Contact:
+
+#### *Author Name*
+
+**Yash Joglekar**
+
+My GitHub - [YASHBRO](https://github.com/YASHBRO) 
+
+
+_For suggestions and bug/error report_
+	
+Email :- yashjoglekar2012@gmail.com
+
+<br/>
+
+<img width="150px" src="https://sdk.bitmoji.com/render/panel/b6dbf504-c36d-498c-acf9-c7350b749221-23c927d9-4799-4bc6-9129-0d51a8a995de-v1.png?transparent=1&palette=1">
