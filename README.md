@@ -10,6 +10,7 @@
 	- Whom you don't follow back 
 		- _Optional-> Follow back them all_
 
+
 2. **Spamming bot** :
 	- It can spam multiple people in a single input with the custom message you provide
 
