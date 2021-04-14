@@ -48,7 +48,7 @@ It waits for 50 seconds if you have second authorization enabled
     - If you have Chrome installed in your system then download the [Chrome webdriver](https://chromedriver.chromium.org/downloads).
 	- Place web driver and the bot in the same directory or else bot will fail.
 
-**After conversion by running `Pyinstaller_python.py`, yo run the `Instagram_bot.exe` file you need following stuff in your system:**
+**After conversion by running `Pyinstaller_python.py`, to run the `Instagram_bot.exe` file you only need following in your system:**
 
 1. **You should have the `x64` bit OS.**
 
@@ -68,8 +68,8 @@ It waits for 50 seconds if you have second authorization enabled
 - To create a `.exe` file, just run `Pyinstaller_python.py` file, but make sure you have all the pakages installed as mentioned above.
 		
 _Note:_
-- Please make sure you opt the command/choice in form of numbers(1,2,3,4...), as the numbers will be mentioned in-front of the option_
-- It is possible that in the 1st time use, your user id isn't shown even after adding it. In that case, just go for the option "Refresh(re)" or close and re-run the code/file.
+- Please make sure you opt the command/choice in form of numbers(1,2,3,4... or a,b,c...). _as the character will be mentioned in-front of the option_
+- It is possible that in the 1st time use, your user id isn't shown even after adding it. In that case, just go for the option "Refresh(re)" or re-run the code/file.
 
 
 ---------------
