@@ -18,7 +18,7 @@
 
 It saves your user id and password in the same location as your `.py`/`.exe` as `Users.txt`, and don't worry, your user id might be readable to you but password is in the encrypted form
 
-It also saves both of the list of above mentioned people in the form of simple text file.
+It also saves a lsit of people following you and people you're following in the form of simple text file (`.txt`) .
 
 For your convinience I added another file named `Pyinstaller_python.py` which on running converts the app into an `.exe` file which functions the same and it doesn't even have any prerequisites except for the web driver
 
